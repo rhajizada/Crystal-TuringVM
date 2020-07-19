@@ -1,0 +1,13 @@
+name: turing_vm
+version: 0.1.0
+
+authors:
+  - your-name-here <your-email-here>
+
+targets:
+  turing_vm:
+    main: src/turing_vm.cr
+
+crystal: 0.35.1
+
+license: MIT

@@ -1,0 +1,33 @@
+2020-07-14T07:05:45.075336Z   INFO - Importing program from files/binaries/demo.bin
+2020-07-14T07:05:45.075482Z   INFO - Importing tape from files/tapes/demo.tape
+2020-07-14T07:05:45.075564Z   WARN - Deleting empty tape line
+2020-07-14T07:05:45.075755Z   INFO - Worker 1 finished executing program. HALT after 7 moves and 43 instructions executed
+ a 
+ ^
+2020-07-14T07:05:45.075844Z   INFO - Worker 0 finished executing program. HALT after 29 moves and 149 instructions executed
+   aba 
+   ^
+2020-07-14T07:05:45.075879Z   INFO - Worker 2 finished executing program. HALT after 7 moves and 47 instructions executed
+ b 
+ ^
+2020-07-14T07:05:45.075911Z   INFO - Worker 3 finished executing program. HALT after 11 moves and 67 instructions executed
+     a 
+     ^
+2020-07-14T07:05:45.076153Z   INFO - Worker 4 finished executing program. HALT after 12 moves and 77 instructions executed
+      b 
+      ^
+2020-07-14T07:05:45.076205Z   INFO - Worker 6 finished executing program. HALT after 24 moves and 130 instructions executed
+      ab 
+      ^
+2020-07-14T07:05:45.076245Z   INFO - Worker 5 finished executing program. HALT after 31 moves and 160 instructions executed
+       ab 
+       ^
+2020-07-14T07:05:45.077806Z   INFO - Worker 7 finished executing program. HALT after 1272 moves and 5316 instructions executed
+                                        babababababababababa 
+                                        ^
+2020-07-14T07:05:45.078496Z   INFO - Worker 10 finished executing program. HALT after 161 moves and 808 instructions executed
+                                                                       ba 
+                                                                       ^
+2020-07-14T07:05:45.081098Z   INFO - Worker 11 finished executing program. HALT after 1641 moves and 6820 instructions executed
+                                               ababababababababababab 
+                                               ^
